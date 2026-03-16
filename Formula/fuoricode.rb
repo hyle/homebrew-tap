@@ -1,8 +1,8 @@
 class Fuoricode < Formula
   desc "Export a codebase to a single Markdown file"
   homepage "https://github.com/hyle/fuoricode"
-  url "https://github.com/hyle/fuoricode/archive/refs/tags/v0.2.7.tar.gz"
-  sha256 "8e897f0c6e2599eaa6c8bb5ff4ce23e897171c3dc4be64460a48d4b8179011bd"
+  url "https://github.com/hyle/fuoricode/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "9488d5d90062c29413a568f10933673c1aeaf9b6a09fe493b1b66d8dc569ac66"
   license "MIT"
 
   def install
